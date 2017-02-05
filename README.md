@@ -1,7 +1,8 @@
 # prod-electricite
 Simulations du papier:
 
-Prévoir la consommation et la production électriques pour mieux commander le stockage de l’énergie au niveau du consommateur
+SMART EASE, UNE METHODE ECONOME POUR OPTIMISER LE STOCKAGE ELECTRIQUE A L’ECHELLE DU CONSOMMATEUR
+
 Pierre-Louis Guhur et Charles Lorenzo
 
 Les simulations ont été faites sur un notebook IPython. On peut les voir sur : 
